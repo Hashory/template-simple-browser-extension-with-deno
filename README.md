@@ -4,10 +4,14 @@
 
 1. Install [Deno](https://deno.land/).
 
-1. Clone the repository.
+1. Clone the repository or Click _"Use this template"_.
+
+   ![Use this template button image](https://github.com/user-attachments/assets/2b600469-0840-4a9e-95a7-1a295eab72f3)
+
+   or
 
    ```sh
-   git clone https://github.com/Hashory/picture-in-picture_for_tver.git
+   git clone https://github.com/Hashory/template-simple-browser-extension-with-deno.git
    ```
 
 1. Cache the type files required for development.
